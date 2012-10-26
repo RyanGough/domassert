@@ -1,6 +1,6 @@
 Introduction
 -------
-Some additional assert methods for testing the DOM
+A node package with some additional assert methods for testing the DOM
 
 Uses [xmldom](https://github.com/jindw/xmldom) and [xpath.js](https://github.com/yaronn/xpath.js)
 
