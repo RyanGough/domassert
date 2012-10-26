@@ -1,0 +1,25 @@
+{
+  "author": "Ryan Gough <ryan.gough@gmail.com>",
+  "name": "domassert",
+  "main": "domassert",
+  "description": "Additional asserts for testing the DOM",
+  "version": "0.0.1",
+  "repository": {
+    "url": ""
+  },
+  "scripts": {
+    "test": "./test/test"
+  },
+  "dependencies": {
+    "xmldom": "~0.1.13",
+    "coffee-script": "~1.4.0",
+    "xpath.js": "0.0.3"
+  },
+  "devDependencies": {
+    "mocha": "~1.6.0"
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
